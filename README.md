@@ -1,3 +1,6 @@
-# SC_302_Documentacion_MN_FelipeMorales
+# SC\_302\_Documentacion\_MN\_FelipeMorales
+
 Laboratorio de Documentación
-Esta	es	mi	primera	práctica	con	GitHub.
+
+Esta es mi primera práctica con GitHub.
+
